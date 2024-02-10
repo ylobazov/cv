@@ -19,7 +19,7 @@ patterns, concurrent and event-driven programming, as well as microservice archi
 
 ## Skills
  - **Programming languages**: Java, Scala, Python, Golang
- - **Databases**: SQL , PostgreSQL, MongoDB, Redis
+ - **Databases**: PostgreSQL, MongoDB, Redis
  - **Frameworks**: Spring, Akka, Spark, Apache Kafka, RabbitMQ
  - **Build automation tools**: Maven, SBT
  - **CI / CD**: GitHub Actions, Jenkins, TeamCity, CircleCI
@@ -30,7 +30,7 @@ Git, Docker, Terraform, Datadog, Graylog, Logentries
 Kharkiv National University of Radioelectronics, Kharkiv, Ukraine <br>
 **2008-2013** Master’s Degree in Radio Engineering <br>
 
-*Activities and societies*: Scientific research on wireless power transmission.
+*Activities and societies*: Scientific research on wireless energy transmission.
 
 ## Professional Experience
 
@@ -41,7 +41,7 @@ As an early member of the engineering team at a business credit card management 
 tracking, document generation, settlement, billing, and reporting.
 - Established an infrastructure-as-code architecture utilizing Terraform and AWS.
 - Led the core team, overseeing crisis management, establishing a robust development process, conducting long and 
-   short-term planning, and addressing both business and engineering challenges to ensure smooth operations and mitigate pain points.
+short-term planning, and addressing both business and engineering challenges to ensure smooth operations and mitigate pain points.
 - Implemented and nurtured a healthy and sustainable development culture within the team.
 
 **Tech Stack**: Java, Spring, PostgreSQL, Apache Kafka, Docker, Terraform, Amazon Web
