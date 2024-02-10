@@ -42,7 +42,7 @@ tracking, document generation, settlement, billing, and reporting.
 - Established an infrastructure-as-code architecture utilizing Terraform and AWS.
 - Led the core team, overseeing crisis management, establishing a robust development process, conducting long and 
 short-term planning, and addressing both business and engineering challenges to ensure smooth operations and mitigate pain points.
-- Implemented and nurtured a healthy and sustainable development culture within the team.
+- Nurtured a healthy and sustainable development culture within the team.
 
 **Tech Stack**: Java, Spring, PostgreSQL, Apache Kafka, Docker, Terraform, Amazon Web
 Services, GitHub Actions, Datadog, Swagger, Liquibase.
