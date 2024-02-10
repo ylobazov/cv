@@ -9,8 +9,8 @@ __BERLIN, GERMANY__
 ## Summary
 - Over a decade of experience in software development, with roles including Developer, Technical Lead,
 Engineering Manager and Staff Engineer.
-- Proficient in constructing products from inception and enhancing existing intricate applications across various 
-  domains.
+- Extensive experience in both building products from scratch and enhancing existing complex applications across 
+various domains.
 - Deep understanding of object-oriented and functional programming semantics and design
 patterns, concurrent and event-driven programming, as well as microservice architecture.
 - Hands-on familiarity with infrastructure and DevOps practices.
@@ -50,7 +50,7 @@ Services, GitHub Actions, Datadog, Swagger, Liquibase.
 <br>
 
 **Senior Software Engineer** @ REMOTE _(November 2018 - May 2020)_ <br>
-As a remote contractor, I contributed to several projects:
+As BigData consultant in R&D department, I contributed to several projects:
 
 - Designed and developed a streaming analytics application within the IoT domain.
 - Designed and developed an A/B testing framework for serving ML models.
@@ -81,6 +81,8 @@ billing and reporting, infrastructure state synchronization, AWS integration, CL
 
 **Tech Stack**: Java, MongoDB, PostgreSQL, RabbitMQ, Spring, Amazon Web Services, HP
 Cloud Service Automation, Jenkins, GrayLog, JUnit
+
+<br>
 
 ## Trainings & Certifications
 **2019** Google Cloud Certified Professional Data Engineer <br>
