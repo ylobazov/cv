@@ -7,7 +7,7 @@ __BERLIN, GERMANY__
 [Email](mailto:ylobazov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/yevhen-lobazov-30965782/) / [GitHub](https://github.com/ylobazov) 
 
 ## Summary
-- Over a decade of experience in software development, with roles including Developer, Technical Lead, 
+- Over a decade of experience in software development, with roles including Developer, Technical Lead 
 and Engineering Manager.
 - Extensive experience in both building products from scratch and enhancing existing complex applications across 
 various domains.
