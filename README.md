@@ -7,8 +7,8 @@ __BERLIN, GERMANY__
 [Email](mailto:ylobazov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/yevhen-lobazov-30965782/) / [GitHub](https://github.com/ylobazov) 
 
 ## Summary
-- Over a decade of experience in software development, with roles including Developer, Technical Lead,
-Engineering Manager and Staff Engineer.
+- Over a decade of experience in software development, with roles including Developer, Technical Lead, 
+and Engineering Manager.
 - Extensive experience in both building products from scratch and enhancing existing complex applications across 
 various domains.
 - Deep understanding of object-oriented and functional programming semantics and design
@@ -42,7 +42,7 @@ tracking, document generation, settlement, billing, and reporting.
 - Established an infrastructure-as-code architecture utilizing Terraform and AWS.
 - Led the core team, overseeing crisis management, establishing a robust development process, conducting long and 
 short-term planning, and addressing both business and engineering challenges to ensure smooth operations and mitigate pain points.
-- Nurtured a healthy and sustainable development culture within the team.
+- Nurtured a healthy and sustainable engineering culture within the team.
 
 **Tech Stack**: Java, Spring, PostgreSQL, Apache Kafka, Docker, Terraform, Amazon Web
 Services, GitHub Actions, Datadog, Swagger, Liquibase.
