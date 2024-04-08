@@ -35,7 +35,7 @@ Kharkiv National University of Radioelectronics, Kharkiv, Ukraine <br>
 ## Professional Experience
 
 **Engineering Lead** @ [Pliant](https://www.getpliant.com/en/) _(July 2020 - Present)_ <br>
-As an early member of the engineering team at a business credit card management startup, I achieved the following:
+As a founding engineer at a business credit card management startup, I achieved the following:
 
 - Designed and implemented several core services, including credit card management, transaction processing, balance 
 tracking, document generation, settlement, billing, and reporting.
@@ -62,10 +62,10 @@ As BigData consultant in R&D department, I contributed to several projects:
 <br>
 
 **Senior Software Engineer** @ Kreditech  _(October 2015 - June 2018)_ <br>
-As a product developer in the FinTech startup, my responsibilities included:
+As a software engineer in the FinTech startup, my responsibilities included:
 
 - Designing, developing, and supporting various subsystems such as loan application, loan lifecycle management, 
-accounting, debt collection, and GDPR compliance features.
+accounting, debt collection and GDPR compliance features.
 - Technical ownership of the system and release coordination.
 
 **Tech Stack**: Scala, SBT, Akka, PostgreSQL, MongoDB, RabbitMQ, Docker, Scalatra, Swagger, Jetty, TeamCity, Jenkins, 
@@ -74,7 +74,7 @@ Heroku, Logentries, Graylog.
 <br>
 
 **Software Engineer** @ EPAM Systems _(August 2013 - October 2015)_ <br>
-As a product developer for an internal Private Cloud project, my responsibilities included:
+As a software engineer for an internal EPAM Private Cloud product, my responsibilities included:
 
 - Designing, developing, and supporting several subsystems of the Private Cloud, including clustering, 
 billing and reporting, infrastructure state synchronization, AWS integration, CLI, and SDK clients.
