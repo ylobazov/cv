@@ -1,6 +1,6 @@
 # Yevhen Lobazov
 
-__Senior Software Engineer__
+__Engineering Leader & Senior Software Engineer__
 
 __BERLIN, GERMANY__
 
