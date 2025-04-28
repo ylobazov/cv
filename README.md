@@ -1,6 +1,6 @@
 # Yevhen Lobazov
 
-__Engineering Leader & Senior Software Engineer__
+__Engineering Manager & Technical Leader__
 
 __BERLIN, GERMANY__
 
@@ -34,7 +34,7 @@ Kharkiv National University of Radioelectronics, Kharkiv, Ukraine <br>
 
 ## Professional Experience
 
-**Engineering Lead** @ [Pliant](https://www.getpliant.com/en/) _(July 2020 - Present)_ <br>
+**Engineering Manager / Technical Leader** @ [Pliant](https://www.getpliant.com/en/) _(July 2020 - Present)_ <br>
 As a founding engineer at a business credit card management startup, I achieved the following:
 
 - Designed and implemented several core services, including credit card management, transaction processing, balance 
