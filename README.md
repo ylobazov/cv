@@ -7,43 +7,48 @@ __BERLIN, GERMANY__
 [Email](mailto:ylobazov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/yevhen-lobazov-30965782/) / [GitHub](https://github.com/ylobazov) 
 
 ## Summary
-- Over a decade of experience in software development, acting as a Software Engineer,
-  Technical Lead and Engineering Manager.
-- Experience in managing cross-functional teams, driving crisis management, planning, and
-  process optimization to ensure operational stability and alignment between business and
-  technical goals.
-- Extensive experience in both building products from scratch and enhancing existing complex applications across 
-various domains.
-- Deep understanding of object-oriented and functional programming semantics and design
-patterns, concurrent and event-driven programming, as well as microservice architecture.
-- Hands-on familiarity with infrastructure and DevOps practices.
-- Product-oriented mindset coupled with attention to details.
-- Embrace challenges and unafraid to explore uncharted territories.
+<p>Seasoned Software Engineer with more than 12 years of hands-on experience in
+start-ups and scale-ups in Individual Contributor, Lead/Staff Engineer and Engineering
+Manager roles.
+<br><br> 
+Experienced in designing architecture, building and scaling product and
+infrastructure, managing cross-functional teams, crisis management, optimisation of
+processes and product to ensure operational stability and alignment between business and
+technical goals.
+<br><br>
+I am a firm believer in analysing and decomposing problems, whether they are
+engineering, architecture, operations, or people ones.</p>
 
 ## Skills
- - **Programming languages**: Java, Scala, Python, Golang
- - **Databases**: PostgreSQL, MongoDB, Redis
- - **Frameworks**: Spring, Akka, Spark, Apache Kafka, RabbitMQ
- - **Build automation tools**: Maven, SBT
- - **CI / CD**: GitHub Actions, Jenkins, TeamCity, CircleCI
- - **Infrastructure**: Amazon Web Services, Google Cloud Platform (BigQuery, Datastore, Dataproc, Dataflow),
-Git, Docker, Terraform, Datadog, Graylog, Logentries
+  **Software Engineering**: 
+  Java, Spring Boot, Scala, Akka, PostgreSQL, MongoDB, Redis, Apache Kafka, RabbitMQ, CI/CD, Docker, Terraform, AWS, GCP, Spark, Python, Golang, API, Maven, SBT, Liquibase, GitHub Actions, Jenkins, TeamCity, CircleCI, Datadog, Graylog, Logentries, Microservices, Event-Driven Architecture, Distributed Systems, High-Load, Monitoring, Observability, Scaling
+
+  **Leadership**: 
+  Building sustainable engineering culture, Fostering ownership mindset, Servant leadership, Managing cross-functional teams, Feedback, Mentoring, Coaching, Agile software development, Crisis management, Roadmap planning with multiple stakeholders
+
+
 
 
 ## Professional Experience
 
-**Engineering Manager / Technical Leader** @ [Pliant](https://www.getpliant.com/en/) _(July 2020 - Present)_ <br>
-As a founding engineer at a business credit card management startup, I achieved the following:
+**Engineering Manager / Technical Lead** @ [Pliant](https://www.getpliant.com/en/) _(January 2022 - Present)_ <br>
+As an Engineering Mangager / Tech Lead at FinTech scaleup, I:
 
-- Led the core team, overseeing crisis management, establishing a robust
-  development process, conducting long and short-term planning, and addressing
-  both business and engineering challenges to ensure smooth operations and mitigate
-  pain points.
-- Established an infrastructure-as-code architecture utilizing Terraform and AWS.
-- Designed and implemented several core services, including credit card management,
-  transaction processing, balance tracking, document generation, settlement, billing,
-  and reporting.
-- Nurtured a healthy and sustainable engineering culture team and department wide.
+- Led the cross-functional team with multiple stakeholders (Product, Tech, Ops), navigated it through crisis, established a robust development process, conducted long and short-term planning and addressed both business and engineering challenges.
+- Acted as a servant leader for a team by identifying each team member’s strengths, fostering ownership, and eliminating unnecessary distractions and stress.
+- Worked closely with Operations team, identified and mitigated pain points by creating necessary tooling and processes to ensure their autonomy.
+- Established monitoring to ensure reliable performance and stability of SLO-heavy (99.99% requests under 200ms, no unprocessed requests, up to 100 req/sec in peak hours ) parts of the system.
+- Advocated for, designed and overseer the implementation of mock environment for end-to-end testing.
+- Advocated and led several organisational transformation, including team and domain splits and creation of developer guilds.
+
+**Founding Engineer** @ [Pliant](https://www.getpliant.com/en/) _(July 2020 - December 2021)_ <br>
+As a founding engineer at a FinTech startup, I achieved the following:
+
+- Designed and implemented several core services, including credit card issuing and management, transaction processing, money balances tracking, document generation, billing and settlement.
+- Established an infrastructure-as-code architecture utilising Terraform and AWS.
+- Ensured platform-wide scalability by architectural adjustments and eliminating infrastructure blockers.
+- Overseer cross-team technical alignment by mentoring, coaching and creating guideline documentation.
+- Nurtured a healthy and sustainable engineering culture
 
 **Tech Stack**: Java, Spring, PostgreSQL, Apache Kafka, Docker, Terraform, Amazon Web
 Services, GitHub Actions, Datadog, Swagger, Liquibase.
@@ -64,7 +69,7 @@ As BigData consultant in R&D department, I contributed to several projects:
 <br>
 
 **Senior Software Engineer** @ Kreditech  _(October 2015 - June 2018)_ <br>
-As a software engineer in the FinTech startup, my responsibilities included:
+As a software engineer in the FinTech scaleup, my responsibilities included:
 
 - Designing, developing, and supporting various subsystems such as loan application, loan lifecycle management, 
 accounting, debt collection and GDPR compliance features.
